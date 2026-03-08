@@ -13,11 +13,14 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 import time
 import random
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
 INSTA_URL = "https://instagram.com"
-INSTA_USERNAME = "flame_kaiser_official"
-INSTA_PASSWORD = "<pYL):qI<3@!^Duo2>Im"
+INSTA_USERNAME = os.getenv("INSTA_USERNAME")
+INSTA_PASSWORD = os.getenv("INSTA_PASSWORD")
 CHEFSTEPS_ACCOUNT = "/chefsteps/"
 
 chrome_options = ChromeOptions()
@@ -142,3 +145,4 @@ bot = InstaFollower()
 bot.login()
 bot.find_followers()
 bot.follow()
+
