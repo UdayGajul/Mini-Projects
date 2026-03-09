@@ -1,0 +1,20 @@
+{
+    "exercises": [
+        {
+            "tag_id": 63,
+            "user_input": "swam for 1 hour",
+            "duration_min": 60,
+            "met": 5.8,
+            "nf_calories": 426,
+            "photo": {
+                "highres": "https: //placeholder.not-a-real-url.com/exercise/63_highres.jpg",
+                "thumb": "https://placeholder.not-a-real-url.com/exercise/63_thumb.jpg",
+                "is_user_uploaded": "False"
+            },
+            "compendium_code": 18310,
+            "name": "swimming",
+            "description": "None",
+            "benefits": "None"
+        }
+    ]
+}
