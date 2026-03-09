@@ -4,6 +4,9 @@ This repository includes some of the mini projects I've worked on so far, and I 
 
 ## 📂 Projects
 
+### 💰 Automated Price Tracker
+Tracks product prices online and sends an email notification when the price drops below your desired threshold.
+
 ### 🎂 Birthday Wisher
 A Python automation project that stores people's birthdays in a CSV file and automatically sends them a birthday email on their special day.
 
