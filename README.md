@@ -22,5 +22,5 @@ A GUI application that generates strong random passwords and automatically copie
 ### 📈 Stock Trading News Alert
  script that monitors stock price changes and sends alerts via WhatsApp whenever a stock significantly rises or falls.
  
-🏋️ **Workout Tracking using Google Sheets**  
+### 🏋️ Workout Tracking using Google Sheets
 Takes user workout input, processes it with an NLP API, and logs the structured workout data automatically into a Google Sheet.
