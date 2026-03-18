@@ -8,22 +8,25 @@ This repository includes some of the mini projects I've worked on so far, and I 
 Tracks product prices online and sends an email notification when the price drops below your desired threshold.
 
 ### 🎂 Birthday Wisher
-A Python automation project that stores people's birthdays in a CSV file and automatically sends them a birthday email on their special day.
+A Python automation project that stores people's birthdays in a CSV file and automatically sends them a birthday email on their birthday.
 
 ### 🤖 Instagram Follower Bot
 A bot that automatically follows the followers of the Instagram account **chefsteps** to help grow an Instagram profile.
 
-### 📶 Internet Speed Twitter (X) Complaint Bot
+### 📶 Internet Speed X (Twitter) Complaint Bot
 This bot checks my internet speed and automatically posts a tweet on X when my ISP does not provide the promised internet speed.
 
 ### ⏱️ Pomodoro App
 A simple GUI-based Pomodoro timer application that helps improve productivity by following the Pomodoro technique.
 
 ### 🔐 Random Password Generator
-A GUI application that generates strong random passwords and automatically copies them to the Windows clipboard for easy use.
+A GUI application that generates strong random passwords and automatically copies them to the clipboard for easy use.
 
 ### 📈 Stock Trading News Alert
- script that monitors stock price changes and sends alerts via WhatsApp whenever a stock significantly rises or falls.
+A script that monitors stock price changes and sends alerts via WhatsApp whenever a stock significantly rises or falls.
+
+### 🎮 Tic Tac Toe Game
+A simple console game that simulates Tic Tac Toe against a friend or computer.
 
 ### 🔤 Text ↔ Morse Code Converter
 A simple Python project to convert text to Morse code and Morse code to text.
