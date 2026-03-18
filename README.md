@@ -25,11 +25,11 @@ A GUI application that generates strong random passwords and automatically copie
 ### 📈 Stock Trading News Alert
 A script that monitors stock price changes and sends alerts via WhatsApp whenever a stock significantly rises or falls.
 
-### 🎮 Tic Tac Toe Game
-A simple console game that simulates Tic Tac Toe against a friend or computer.
-
 ### 🔤 Text ↔ Morse Code Converter
 A simple Python project to convert text to Morse code and Morse code to text.
+
+### 🎮 Tic Tac Toe Game
+A simple console game that simulates Tic Tac Toe against a friend or computer.
 
 ### 🏋️ Workout Tracking using Google Sheets
 Takes user workout input, processes it with an NLP API, and logs the structured workout data automatically into a Google Sheet.
