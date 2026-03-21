@@ -4,6 +4,9 @@ This repository includes some of the mini projects I've worked on so far, and I 
 
 ## 📂 Projects
 
+### 🖼️ Add Watermakr to Images
+A simple GUI to add custom text watermarks with font choice, size, position, RGB color, live preview and save.
+
 ### 💰 Automated Price Tracker
 Tracks product prices online and sends an email notification when the price drops below your desired threshold.
 
