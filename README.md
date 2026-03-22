@@ -19,6 +19,9 @@ A bot that automatically follows the followers of the Instagram account **chefst
 ### 📶 Internet Speed X (Twitter) Complaint Bot
 This bot checks my internet speed and automatically posts a tweet on X when my ISP does not provide the promised internet speed.
 
+### 📄 PDF to Speech
+A Python GUI application that allows users to upload a PDF file and converts its text into speech output.
+
 ### ⏱️ Pomodoro App
 A simple GUI-based Pomodoro timer application that helps improve productivity by following the Pomodoro technique.
 
