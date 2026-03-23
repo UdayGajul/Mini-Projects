@@ -13,6 +13,9 @@ Tracks product prices online and sends an email notification when the price drop
 ### 🎂 Birthday Wisher
 A Python automation project that stores people's birthdays in a CSV file and automatically sends them a birthday email on their birthday.
 
+### 🎨 Color Extractor
+Extracts RGB colors and their percentages from uploaded images.
+
 ### 🤖 Instagram Follower Bot
 A bot that automatically follows the followers of the Instagram account **chefsteps** to help grow an Instagram profile.
 
